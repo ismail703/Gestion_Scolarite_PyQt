@@ -53,20 +53,20 @@ pip install PyQt6 sqlite3
 
 ### **Screenshots**  
 ### Teacher Management
-![Teacher Management](images/main_interface.png)
+![Teacher Management](images/teacher_view.png)
 
 ### Student Management
-![Student Management](images/student_management.png)
+![Student Management](images/etudiant_view.png)
 
 ### Course Management
-![Course Management](images/report_view.png)
+![Course Management](images/course_view.png)
 
 ### Inscription Management
-![Inscription Management](images/report_view.png)
+![Inscription Management](images/inscription_view.png)
  
 
 
 
 ### **Contact**  
-**LinkedIn** - [https://www.linkedin.com/in/ismail-el-main-4823502a4/]  
+**LinkedIn** - ![EL Main Ismail](https://www.linkedin.com/in/ismail-el-main-4823502a4/)
 **GitHub:** [https://github.com/ismail703]  
