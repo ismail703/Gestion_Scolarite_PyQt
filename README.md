@@ -68,5 +68,6 @@ pip install PyQt6 sqlite3
 
 
 ### **Contact**  
-**LinkedIn** - ![EL Main Ismail](https://www.linkedin.com/in/ismail-el-main-4823502a4/)
-**GitHub:** [https://github.com/ismail703]  
+**LinkedIn:** [EL Main Ismail](https://www.linkedin.com/in/ismail-el-main-4823502a4/)  
+**GitHub:** [Ismail703](https://github.com/ismail703)  
+
